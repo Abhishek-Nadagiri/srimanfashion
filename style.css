@@ -28,10 +28,11 @@ body {
 }
 
 #home{
-    background-image: url(homewall2.jpg);
+    background-image: url(homewall.jpg);
     opacity: 5px;
     filter: brightness(0.2px);
 }
+
 
 h2{
     text-align: center;
@@ -48,4 +49,18 @@ footer{
 
 .container{
     background-color: transparent;
+}
+
+#navbarNav{
+    padding-right: 100px;
+}
+
+.nav-item3{
+    padding-left: 30px;
+}
+
+@media (max-width:600px){
+    #navbarNav{
+        padding-left: 70px;
+    }
 }
