@@ -63,4 +63,8 @@ footer{
     #navbarNav{
         padding-left: 70px;
     }
+    .logo{
+        width: 220px;
+        height: 80px;
+    }
 }
